@@ -1,2 +1,0 @@
-[2017-02-16 18:30:00] blogMVC.INFO: Matched route "{route}". {"route":"GET_","route_parameters":{"_controller":"[object] (Closure: {})","_route":"GET_"},"request_uri":"http://localhost/silex/public/index.php/","method":"GET"} []
-[2017-02-16 18:30:20] blogMVC.INFO: Matched route "{route}". {"route":"GET_","route_parameters":{"_controller":"[object] (Closure: {})","_route":"GET_"},"request_uri":"http://localhost/silex/public/","method":"GET"} []

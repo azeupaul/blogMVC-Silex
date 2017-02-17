@@ -1,5 +1,3 @@
 <?php
 
-$app->get('/', function(){
-	return 'Hello world';
-});
+$app->get('/', 'BlogMVC\Controller\PostController::indexAction');
